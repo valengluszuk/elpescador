@@ -10,7 +10,7 @@ body {
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
   color: #444;
-  background: url('https://imgur.com/a/qk3RhRA') no-repeat center center fixed; /* Reemplaza con la URL real de tu imagen */
+  background: url('https://imgur.com/a/qk3RhRA.png') no-repeat center center fixed; /* Reemplaza con la URL real de tu imagen */
   background-color: red; /* Color de fondo de respaldo */
   background-size: cover; /* Para que la imagen de fondo cubra toda la ventana */
 }
